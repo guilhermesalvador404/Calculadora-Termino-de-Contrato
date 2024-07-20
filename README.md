@@ -24,7 +24,7 @@ Esta é uma aplicação simples em Python utilizando Tkinter para calcular a dat
 2. **Execute o programa:**
 
    ```bash
-   cd deu_repositorio
+   cd seu_repositorio
    python calculadora_termino_contrato.py
 
   3. **Preencha os campos:**
