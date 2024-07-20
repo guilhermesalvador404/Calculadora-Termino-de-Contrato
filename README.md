@@ -32,6 +32,11 @@ Esta é uma aplicação simples em Python utilizando Tkinter para calcular a dat
 - Informe a duração do contrato em meses (número inteiro positivo).
 - Clique no botão "Calcular Término" para obter a data de término do contrato.
 
-  ## Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar problemas ou sugerir melhorias.
+
+## Aviso sobre alertas de vírus
+
+Alguns usuários podem receber alertas de vírus ao baixar ou executar este aplicativo. Este é um fenômeno conhecido como "falso positivo", onde o software antivírus erroneamente identifica um arquivo seguro como malicioso.
+
